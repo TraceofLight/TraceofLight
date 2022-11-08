@@ -7,7 +7,7 @@
 
 [![TraceofLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=TraceofLight&show_icons=true&bg_color=FFFFFF)](https://www.traceoflight.dev/)
 
-![snake gif](https://github.com/TraceofLight/TraceofLight/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/TraceofLight/TraceofLight/blob/output/github-contribution-grid-snake.svg)
 <hr>
 
 # Tech Stack
