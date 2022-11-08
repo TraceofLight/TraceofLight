@@ -6,6 +6,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftraceoflight%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=git.svg&icon_color=%23F05032&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![TraceofLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=TraceofLight&show_icons=true&bg_color=FFFFFF)](https://www.traceoflight.dev/)
+
+![snake gif](https://github.com/TraceofLight/TraceofLight/blob/output/github-contribution-grid-snake.gif)
 <hr>
 
 # Tech Stack
@@ -38,7 +40,6 @@
 # Link
 
 [<img src="https://img.shields.io/badge/velog-FFFFFF?style=plastic&logo=velog&logoColor=20C997"/>](https://velog.io/@traceoflight/)
-
 <hr>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
