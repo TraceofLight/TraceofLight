@@ -26,7 +26,7 @@ jobs:
           svg_out_path: dist/solved-ac-nake.svg?color_snake=orange&color_dots=#DEDFE1,#7CF7FF,#94CAFE,#C38DED,#FD7EAB
 
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
