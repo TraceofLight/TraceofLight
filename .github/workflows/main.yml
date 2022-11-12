@@ -26,7 +26,7 @@ jobs:
           svg_out_path: dist/solved-ac-nake.svg?color_snake=orange&color_dots=#DEDFE1,#7CF7FF,#94CAFE,#C38DED,#FD7EAB
 
       - name: push change
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           branch: main
