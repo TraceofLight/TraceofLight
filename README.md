@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftraceoflight%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=git.svg&icon_color=%23F05032&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![TraceofLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=TraceofLight&show_icons=true&bg_color=FFFFFF)](https://www.traceoflight.dev/)
+<!--[![TraceofLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=TraceofLight&show_icons=true&bg_color=FFFFFF)](https://www.traceoflight.dev/)-->
 
 ![snake gif](https://github.com/TraceofLight/TraceofLight/blob/output/solvedac-snake.svg)
 <hr>
