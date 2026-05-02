@@ -1,4 +1,4 @@
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=TraceofLight&count_private=true&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/TraceofLight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TraceofLight&layout=compact&theme=tokyonight) |
+| [![GitHub stats](https://github-readme-stats-eight-xi-75.vercel.app/api?username=TraceofLight&count_private=true&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/TraceofLight) | ![Top Langs](https://github-readme-stats-eight-xi-75.vercel.app/api/top-langs/?username=TraceofLight&layout=compact&theme=tokyonight) |
 |:---:|:---:|
 
 ![snake gif](https://github.com/TraceofLight/TraceofLight/blob/output/solvedac-snake.svg)
