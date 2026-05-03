@@ -11,7 +11,7 @@
 
 [![Devlog](https://img.shields.io/badge/Devlog-11172b?style=for-the-badge&logo=astro&logoColor=white)](https://www.traceoflight.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-11172b?style=for-the-badge&logo=rocket&logoColor=white)](https://www.traceoflight.dev/portfolio)
-![Views](https://komarev.com/ghpvc/?username=TraceofLight&style=for-the-badge&color=11172b&label=views&abbreviated=true)
+![Views](https://www.traceoflight.dev/api/v1/views-counter?username=TraceofLight&style=for-the-badge&color=11172b&label=views&abbreviated=true)
 
 ### Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -42,4 +42,4 @@
 
 ### Problem Solving
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=traceoflight)](https://solved.ac/traceoflight)
+[![Solved.ac Profile](https://mazassumnida-traceoflight-dev-projects.vercel.app/api/v2/generate_badge?boj=traceoflight)](https://solved.ac/traceoflight)
