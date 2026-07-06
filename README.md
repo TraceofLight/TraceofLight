@@ -32,7 +32,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ### Career
-- Freelance Infrastructure & Backend Engineer (2026.04 ~ Present)
+- Freelance LLMOps & Backend Engineer (2026.04 ~ Present)
 - DB Engine Core Engineer @ TmaxTibero (2023.10 ~ 2024.11)
 
 ### Education
